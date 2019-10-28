@@ -1,3 +1,3 @@
 # test
 
-membuat commit pertama
+commit pertama diganti dengan commit kedua
